@@ -25,10 +25,10 @@ It allows passengers to book tickets, checks seat availability, and stores booki
 ## 📂 Database Setup
 1. Install MySQL (or use XAMPP/MAMP).
 2. Create a database:
-   ```
-   CREATE DATABASE bus_reservation;
-   USE bus_reservation;
-   ```
+```
+CREATE DATABASE bus_reservation;
+USE bus_reservation;
+```
 3.Create tables:
 ```
 CREATE TABLE buses (
