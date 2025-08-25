@@ -54,9 +54,10 @@ INSERT INTO buses VALUES
 (3, TRUE, 3);
 ```
 
-## 📸 Sample Output
 
 ---
+## 📸 Sample Output
+
 Bus No :1   AC:true   Total Capacity:3
 Bus No :2   AC:false  Total Capacity:3
 Bus No :3   AC:true   Total Capacity:3
@@ -71,9 +72,11 @@ Enter date DD-MM-YYYY
 Your booking is confirmed
 ---
 
-## 🎯 Learning Outcomes
 
 ---
+## 🎯 Learning Outcomes
+
+
 Java OOP (Classes, Objects, Encapsulation, Methods)
 
 Exception Handling
